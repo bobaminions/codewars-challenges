@@ -12,4 +12,5 @@ def unique(integers)
   unique_array
 end
 
+# Example
 puts unique([5, 3, 2, 2, 3, 5, 4]).inspect
