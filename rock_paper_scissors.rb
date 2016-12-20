@@ -22,3 +22,5 @@ def rps(p1, p2)
     "Draw!"
   end
 end
+
+puts ((45 * 5).to_f / 100)
